@@ -43,7 +43,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "csscomb": "git@github.com:mhemmings/csscomb.js.git#dev"
+    "csscomb": "https://github.com/mhemmings/csscomb.jstarball/include-fix"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
